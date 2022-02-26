@@ -8,6 +8,13 @@
             "rocket\\": "src/"
         }
     },
+    "extra": {
+        "think":{
+            "config":{
+                "redis": "src/config.php"
+            }
+        }
+    },
     "authors": [
         {
             "name": "SummerPassion",
