@@ -15,10 +15,10 @@ declare (strict_types=1);
  * DateTime: 2022-02-25 16:43:00
  */
 
-namespace rocket;
+namespace rocket_utils;
 
 use think\facade\Config;
-use rocket\redis\Redis;
+use rocket_utils\redis\Redis;
 
 /**
  * 工具类

@@ -15,7 +15,7 @@ declare (strict_types=1);
  * DateTime: 2022-02-25 17:03:54
  */
 
-namespace rocket\exception;
+namespace rocket_utils\exception;
 
 use Exception;
 

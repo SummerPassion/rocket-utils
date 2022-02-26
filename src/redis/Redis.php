@@ -15,9 +15,9 @@ declare (strict_types=1);
  * DateTime: 2022-02-25 17:02:17
  */
 
-namespace rocket\redis;
+namespace rocket_utils\redis;
 
-use rocket\exception\RedisException;
+use rocket_utils\exception\RedisException;
 
 /**
  * Redis
